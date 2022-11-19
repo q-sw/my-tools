@@ -1,0 +1,58 @@
+{
+    "books":[
+        {
+            "title": "fait maison livre 1",
+            "author": "Cyril Lignac",
+            "recipes-interval": {
+                "first_page": 8,
+                "last_page": 56
+            },
+            "recipes-pages-list": []
+        },
+        {
+            "title": "fait maison livre 2",
+            "author": "Cyril Lignac",
+            "recipes-interval": {
+                "first_page": 9,
+                "last_page": 73
+            },
+            "recipes-pages-list": []
+        },
+        {
+            "title": "fait maison livre 3",
+            "author": "Cyril Lignac",
+            "recipes-interval": {
+                "first_page": 9,
+                "last_page": 68
+            },
+            "recipes-pages-list": []
+        },
+        {
+            "title": "fait maison livre 4",
+            "author": "Cyril Lignac",
+            "recipes-interval": {
+                "first_page": 8,
+                "last_page": 73
+            },
+            "recipes-pages-list": []
+        },
+        {
+            "title": "fait maison livre 6",
+            "author": "Cyril Lignac",
+            "recipes-interval": {
+                "first_page": 9,
+                "last_page": 81
+            },
+            "recipes-pages-list": []
+        },
+        {
+            "title": "En 2h je cuisine pas cher pour toute la semaine",
+            "author": "Stéphanie de Turckheim",
+            "recipes-interval": {
+                "first_page": 0,
+                "last_page": 0
+            },
+            "recipes-pages-list": [31,44,59,73,89,102,117,131,147,161,175,186,205,219,233,247]
+        }
+    ]
+}
